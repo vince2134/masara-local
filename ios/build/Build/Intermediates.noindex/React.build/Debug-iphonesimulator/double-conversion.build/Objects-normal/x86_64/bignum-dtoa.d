@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/bignum-dtoa.cc \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/bignum-dtoa.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/utils.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/bignum.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/ieee.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/third-party/double-conversion-1.1.5/src/diy-fp.h

@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/vince/React/MaSaRa/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/vince/React/MaSaRa/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/vince/React/MaSaRa/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/vince/React/MaSaRa/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
