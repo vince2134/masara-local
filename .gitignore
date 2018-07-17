@@ -7,7 +7,7 @@
 /node_modules
 /ios/build
 /android/app
-/android/.gradle
+/android/.gradle/*
 
 # misc
 .env.local
